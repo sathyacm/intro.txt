@@ -9,3 +9,9 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+
+    Created an open source repository
+    Started and managed a new branch
+    Changed a file and committed those changes to GitHub
+    Opened and merged a Pull Request
